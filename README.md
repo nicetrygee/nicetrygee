@@ -14,7 +14,7 @@
 🛠️ Engineering Manager<br>
 🤖 Building things with agentic AI<br>
 ✍️ Writing about engineering, AI and lessons learned at *mutable state*<br>
-📖 Constantly learning new things, and trying to finish them<br>
+📖 Constantly learning new things and erm trying to finish them<br>
 💬 Wanna chat? Please, contact me ☝️
 
 <p>
