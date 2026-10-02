@@ -13,7 +13,7 @@
 
 🛠️ Engineering Manager<br>
 🤖 Building things with agentic AI<br>
-✍️ Writing about engineering, AI and lessons learned at *mutable state*<br>
+✍️ Writing about engineering, AI and lessons learned at my blog called *mutable state*<br>
 📖 Constantly learning new things and erm trying to finish them<br>
 💬 Wanna chat? Please, contact me ☝️
 
