@@ -12,7 +12,7 @@
 ---
 
 🛠️ Engineering Manager<br>
-🤖 Building things with agentic AI<br>
+🤖 Building things with agentic AI and Spec Driven Development<br>
 ✍️ Writing about engineering, AI and lessons learned at my blog called *mutable state*<br>
 📖 Constantly learning new things and erm trying to finish them<br>
 💬 Wanna chat? Please, contact me ☝️
